@@ -40,6 +40,11 @@
       <version>${junit.version}</version>
       <scope>test</scope>
     </dependency>
+		<dependency>
+			<groupId>org.dealshare</groupId>
+			<artifactId>jwt-library</artifactId>
+			<version>1.38_QA</version>
+		</dependency>
   </dependencies>
   <build>
     <plugins>
