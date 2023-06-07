@@ -7,7 +7,7 @@
     <repositories>
       <repository>
         <id>dealshare-jwt-library</id>
-        <url></url>
+        <url>https://dealshare-997477333591.d.codeartifact.us-east-1.amazonaws.com/maven/jwt-library/</url>
       </repository>
     </repositories>
   </profile>
